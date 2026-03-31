@@ -13,3 +13,8 @@ yarn-error.log
 .vercel/ 
 .next/ 
 out/ 
+.vercel/ 
+.next/ 
+out/ 
+build/ 
+node_modules/ 
